@@ -1,0 +1,6 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://fiftyeightbeads.github.io/fiftyeightbeads_github_io_zp533_10.txt
+Sitemap: https://fiftyeightbeads.github.io/fiftyeightbeads_github_io_zp533_2.txt
+Sitemap: https://fiftyeightbeads.github.io/fiftyeightbeads_github_io_zp533_29.txt
